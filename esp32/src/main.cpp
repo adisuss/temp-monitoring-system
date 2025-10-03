@@ -72,6 +72,7 @@ void loop() {
     if(app.ready() && !taskComplete){
       taskComplete = true;
       setData();
+      updateData();
     }
 }
 
