@@ -16,7 +16,7 @@ Alat ini melakukan **monitoring suhu & kelembapan secara real-time**, mengirimka
 - ✅ Aplikasi Android dengan grafik interaktif  
 - ✅ WiFi provisioning langsung dari aplikasi  
 - ✅ Pengaturan batas suhu & jadwal pengiriman data  
-- ✅ Integrasi otomatis dengan Google Sheets (tabel & grafik historis)  
+- ✅ Integrasi otomatis dengan Google Sheets akun google pengguna (tabel & grafik historis)  
 - ✅ **Fitur Organisasi & Manajemen Anggota** — setiap anggota organisasi mendapat akses perangkat  
 - ✅ **Notifikasi ke Semua Anggota** — jika suhu tidak normal, semua anggota langsung menerima peringatan  
 - ✅ Login Google untuk keamanan & personalisasi data  
@@ -29,8 +29,8 @@ Alat ini melakukan **monitoring suhu & kelembapan secara real-time**, mengirimka
 2. Setelah tersambung, perangkat mulai **mengirimkan data suhu & kelembapan**.  
 3. Aplikasi menampilkan data dalam bentuk **grafik real-time** (20 titik terakhir).  
 4. Jika data melewati batas, **notifikasi langsung dikirim ke semua anggota organisasi**.  
-5. Data juga dikirim secara periodik ke **Google Sheets** terhubung.  
-6. Google Sheets menyajikan data dalam **tabel & grafik historis** yang mudah dipahami.  
+5. Data juga dapat dikirimkan secara terjadwal ke **Google Sheets** dari akun pengguna yang terhubung.  
+6. Google Sheets menyajikan data dalam **tabel & grafik historis** yang mudah dipahami untuk analisis lebih lanjut.  
 
 ---
 
