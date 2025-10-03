@@ -104,7 +104,7 @@ Saya terbuka untuk kolaborasi, pengembangan produk, maupun implementasi di berba
 
 ---
 
-## 📄 Lisensi
+![GitHub license](https://img.shields.io/github/license/adisuss/temp-monitoring-system?logo=github)
 
 Proyek ini berada di bawah lisensi MIT.  
 Bebas digunakan dan dimodifikasi — mohon tetap mencantumkan atribusi.
