@@ -23,6 +23,13 @@ Alat ini melakukan **monitoring suhu & kelembapan secara real-time**, mengirimka
 
 ---
 
+## ⚙️ Tech Spec
+
+1. **DHT11** Sensor dengan rentang pengukuran suhu -40°C hingga 80°C akurasi ±0.5°C.
+2. **Konektivitas** Wi-Fi 802.11 b/g/n (2.4 GHz).
+
+---
+
 ## 📱 Cara Kerja
 
 1. **Setup awal**: perangkat masuk ke mode WiFi provisioning → dikonfigurasi lewat aplikasi Android.  
