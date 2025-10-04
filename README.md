@@ -34,7 +34,7 @@ Alat ini melakukan **monitoring suhu & kelembapan secara real-time**, mengirimka
 
 1. **Setup awal**: perangkat masuk ke mode WiFi provisioning → dikonfigurasi lewat aplikasi Android.  
 2. Setelah tersambung, perangkat mulai **mengirimkan data suhu & kelembapan**.  
-3. Aplikasi menampilkan data dalam bentuk **grafik real-time** (20 titik terakhir).  
+3. Aplikasi menampilkan data dalam bentuk **grafik real-time**.  
 4. Jika data melewati batas, **notifikasi langsung dikirim ke semua anggota organisasi**.  
 5. Data juga dapat dikirimkan secara terjadwal ke **Google Sheets** dari akun pengguna yang terhubung.  
 6. Google Sheets menyajikan data dalam **tabel & grafik historis** yang mudah dipahami untuk analisis lebih lanjut.  
