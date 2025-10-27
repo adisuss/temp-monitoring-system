@@ -17,8 +17,8 @@ Alat ini melakukan **monitoring suhu & kelembapan secara real-time**, mengirimka
 - ✅ WiFi provisioning langsung dari aplikasi  
 - ✅ Pengaturan batas suhu & jadwal pengiriman data  
 - ✅ Integrasi otomatis dengan Google Sheets akun google pengguna (tabel & grafik historis)  
-- ✅ **Fitur Organisasi & Manajemen Anggota** — setiap anggota organisasi mendapat akses perangkat  
-- ✅ **Notifikasi ke Semua Anggota** — jika suhu tidak normal, semua anggota langsung menerima peringatan  
+- ✅ Fitur Organisasi & Manajemen Anggota — setiap anggota organisasi mendapat akses perangkat  
+- ✅ Notifikasi ke Semua Anggota — jika suhu tidak normal, semua anggota langsung menerima peringatan  
 - ✅ Login Google untuk keamanan & personalisasi data  
 
 ---
@@ -92,7 +92,7 @@ Hasil uji coba menunjukkan:
 - ✅ Sistem dapat digunakan oleh lebih dari satu anggota organisasi (teknisi lapangan & supervisor)  
 
 ![Foto Uji Coba](docs/test-unit.jpg)
-*Uji coba perangkat di ruang MCC perusahaan*
+*Uji coba perangkat di ruang MCC*
 
 ## 📊 Contoh Output Google Sheets
 
