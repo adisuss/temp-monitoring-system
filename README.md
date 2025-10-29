@@ -11,7 +11,7 @@ Alat ini melakukan **monitoring suhu & kelembapan secara real-time**, mengirimka
 
 ## 🔧 Fitur Utama
 
-- ✅ Monitoring suhu dan kelembapan secara real-time  
+- ✅ Monitoring suhu dan kelembapan secara near  real-time  
 - ✅ Notifikasi otomatis saat suhu melewati batas atas/bawah  
 - ✅ Aplikasi Android dengan grafik interaktif  
 - ✅ WiFi provisioning langsung dari aplikasi  
